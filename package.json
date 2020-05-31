@@ -1,0 +1,14 @@
+{
+  "name": "tdk-api",
+  "version": "1.0.0",
+  "description": "Türk Dil Kurumu - Kelime Sorgulama",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Yiğit Ağca <yiitinki@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
